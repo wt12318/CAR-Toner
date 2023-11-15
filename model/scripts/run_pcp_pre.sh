@@ -1,0 +1,1 @@
+python scripts/pre_pcp.py -i data/vhh_pre.csv -o data/vhh_pre_res2.csv -m scripts/pcp_tunning5/checkpoint-checkpoint-22176/
