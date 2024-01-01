@@ -1,4 +1,4 @@
-# PCP-AIOptimizer
+# CAR-Toner
 
 Fine-tuned model based on ESM2-8M for PCP calculation.
 
