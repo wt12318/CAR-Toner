@@ -1,5 +1,0 @@
-{
-  "model_max_length": 1024,
-  "special_tokens_map_file": "./data/models--facebook--esm2_t6_8M_UR50D/snapshots/c731040fcd8d73dceaa04b0a8e6329b345b0f5df/special_tokens_map.json",
-  "tokenizer_class": "EsmTokenizer"
-}
