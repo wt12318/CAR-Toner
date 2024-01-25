@@ -13,6 +13,8 @@ In batch mode, user can input multiple sequence in text box or in `Fasta` file, 
 ![single mode](./web_app/pcp4.png)
 ![batch mode](./web_app/pcp2.png)
 
-
+### Citation
+1. Tuning Charge Density of Chimeric Antigen Receptor Optimizes CAR-T Cell Fitness. ***Cell Research*** 2023 33, 341-354. PMID: 36882513
+2. CAR-Toner: An AI-Driven Approach for CAR Tonic Signaling Prediction and Optimization. ***Cell Research*** 2024 (In press).
 
 
